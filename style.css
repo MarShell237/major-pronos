@@ -38,11 +38,11 @@ body{
   display: flex;
   flex-direction: column;
   justify-content: center;
-  flex-grow: 0;
 }
 
 .container-header-text h1 p{
   font-size: 5rem;
+  width: 100%;
 }
 
 .container-header-text > p,p{
