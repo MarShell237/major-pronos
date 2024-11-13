@@ -14,6 +14,11 @@ body{
   padding: 1.5rem;
 }
 
+a{
+  all: unset;
+  cursor: pointer;
+}
+
 :root{
   --primary-color: #000F2E;
 }
